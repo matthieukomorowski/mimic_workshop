@@ -1,0 +1,44 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# Exploring the trajectory of a single patient"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "### Import Python libraries"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "We first need to import some tools for working with data in Python. \n",
+    "- NumPy is for working with numbers\n",
+    "- Pandas is for analysing data\n",
+    "- MatPlotLib is for making plots\n",
+    "- Sqlite3 to connect to the database"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "collapsed": false
+   },
+   "outputs": [],
+   "source": [
+    "import numpy as np\n",
+    "import pandas as pd\n",
+    "import matplotlib.pyplot as plt\n",
+    "import sqlite3\n",
+    "%matplotlib inline"
+   ]
+  },
+  
+  }
