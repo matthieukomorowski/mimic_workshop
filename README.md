@@ -37,9 +37,9 @@ Once it's installed, select "Open Database" from the main window, then open the 
 
 ## Analysing the data using IPython Notebook
 
-To analyse the data using IPython Notebook, we suggest installing the Anaconda package (Python 3.5) from https://www.continuum.io/downloads.
+To analyse the data using IPython Notebook, we suggest installing the Anaconda package (Python 3.5) from https://www.continuum.io/downloads. It's a large file, it will take a while to download and install!
 
-Once it's installed, launch '' then open the IPython notebook (.ipynb) file 01-example-patient-heart-failure.ipynb (found in the folder you downloaded earlier).
+Once it's installed, launch '' then open the IPython notebook (.ipynb) file 'mimic_workshop.ipynb' (found in the folder you downloaded earlier).
 
 ## Getting access to the full MIMIC-III dataset
 
