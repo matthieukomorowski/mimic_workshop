@@ -26,6 +26,10 @@ During the workshop, you will:
 - Plot and analyse the data using Python
 - Get inspiration for future research projects
 
+## Installing IPython Notebook
+
+To analyse the data using IPython Notebook, we suggest installing the Anaconda package (Python 3.5) from https://www.continuum.io/downloads. It's a large file, it will take a while to download and install!
+
 ## Downloading the materials
 
 If you are familiar with git, please clone this repository. If not, click the 'Download ZIP' button on the right and then unzip the materials onto your computer.
@@ -39,7 +43,7 @@ Once it's installed, select "Open Database" from the main window, then open the 
 
 To analyse the data using IPython Notebook, we suggest installing the Anaconda package (Python 3.5) from https://www.continuum.io/downloads. It's a large file, it will take a while to download and install!
 
-Once it's installed, launch '' then open the IPython notebook (.ipynb) file 'mimic_workshop.ipynb' (found in the folder you downloaded earlier).
+Once Anaconda is installed, launch 'Juypter Notebook' then open the IPython notebook (.ipynb) file 'mimic_workshop.ipynb' (found in the folder you downloaded earlier).
 
 ## Getting access to the full MIMIC-III dataset
 
