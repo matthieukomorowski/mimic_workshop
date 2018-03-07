@@ -9,16 +9,11 @@ MIMIC-III is an freely available relational database developed by the MIT Lab fo
 During the workshop, you will:
 
 * Learn about MIMIC-III, the publicly accessible critical care database
-* Create a local version of MIMIC-III with a small sample of patients using the Firefox SQLite Plugin
+* Create a local version of MIMIC-III with a small sample of patients
 * Explore the patient data using SQL
 * Plot and analyse the data using Python
 * Get inspiration for future research projects
 
-## Set up a mini version of MIMIC-III on your computer
-
-* MIMIC-III contains over 40,000 patients, but for the workshop we will be working with a subset of patients.
-* To create the database on your computer, you will need to install Firefox and the Firefox SQLite Manager Add-on. Open Firefox, select "Add-ons" from the Tools menu, and then install SQLite Manager.
-* After restarting Firefox, select "SQLite Manager" from the tools menu. In SQLite Manager, click "Connect Database" in the menu, and select the "data/mimicdata.sqlite" database file.
 
 ## Start exploring the data with SQL
 
