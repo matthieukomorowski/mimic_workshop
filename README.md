@@ -1,4 +1,10 @@
 # MIMIC Critical Care Datathon
+## Deep Intelligence to Advance Smart Care – Towards a Learning Health System
+## Alhambra Hospital Medical Center – March 2018
+
+### Workshop coordinators: Dr Matthieu Komorowski, Dr Shabbir Syed-Abdul
+#### Credit: Material adapted from Drs Tom Pollard and Alistair Johnston, Lab of Computational Physiology at MIT
+
 
 These are training materials for the MIMIC Critical Care Database. The package includes:
 
@@ -31,9 +37,9 @@ Once it's installed, select "Open Database" from the main window, then open the 
 
 ## Analysing the data using IPython Notebook
 
-To analyse the data using IPython Notebook, we suggest installing the Anaconda package from https://www.continuum.io/downloads. 
+To analyse the data using IPython Notebook, we suggest installing the Anaconda package (Python 3.5) from https://www.continuum.io/downloads.
 
-Once IPython is installed, run ```ipython notebook``` from the command line to open IPython Notebook, then open one of the notebook (.ipynb) files (for example, 01-example-patient-heart-failure.ipynb).
+Once it's installed, launch '' then open the IPython notebook (.ipynb) file 01-example-patient-heart-failure.ipynb (found in the folder you downloaded earlier).
 
 ## Getting access to the full MIMIC-III dataset
 
@@ -42,8 +48,4 @@ If after this workshop you would like to gain access to the full MIMIC-III datas
 ## Help to improve the workshop
 
 We hope to improve the workshop contents over time and we welcome your contributions. Please raise an issue and/or submit a pull request!
-
-
-
-
 
